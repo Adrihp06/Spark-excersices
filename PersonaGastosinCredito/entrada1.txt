@@ -1,0 +1,4 @@
+Alice;Tarjeta de crédito;100
+Alice;Efectivo;150
+Alice;Bizum;200
+Bob;Tarjeta de crédito;201
